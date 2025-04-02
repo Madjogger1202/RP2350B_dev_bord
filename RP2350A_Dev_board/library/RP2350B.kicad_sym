@@ -25,7 +25,7 @@
 			)
 		)
 		(property "Footprint" "RP2350B:QFN40P1000X1000X90-81N-D"
-			(at 19.6975 -66.9925 90)
+			(at 19.812 -67.056 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34,7 +34,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.raspberrypi.com/rp2350/rp2350-product-brief.pdf"
-			(at 62.23 -177.14 0)
+			(at 62.23 -177.038 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53,7 +53,7 @@
 			)
 		)
 		(property "Height" "0.9"
-			(at 62.23 -377.14 0)
+			(at 62.23 -377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63,7 +63,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "RASPBERRY-PI"
-			(at 62.23 -477.14 0)
+			(at 62.23 -477.266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +73,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RP2350B"
-			(at 62.23 -577.14 0)
+			(at 62.23 -577.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -83,7 +83,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 62.23 -677.14 0)
+			(at 62.23 -677.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -93,7 +93,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 62.23 -777.14 0)
+			(at 62.23 -777.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -103,7 +103,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 62.23 -877.14 0)
+			(at 62.23 -877.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -113,7 +113,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 62.23 -977.14 0)
+			(at 62.23 -977.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -136,7 +136,7 @@
 			)
 			(polyline
 				(pts
-					(xy 10.16 13.335) (xy 27.94 13.335)
+					(xy 10.16 13.97) (xy 27.94 13.97)
 				)
 				(stroke
 					(width 0)
@@ -172,7 +172,7 @@
 			)
 			(polyline
 				(pts
-					(xy 10.16 -75.565) (xy 27.94 -75.565)
+					(xy 10.16 -76.2) (xy 27.94 -76.2)
 				)
 				(stroke
 					(width 0)
@@ -184,7 +184,7 @@
 			)
 			(polyline
 				(pts
-					(xy 10.16 -94.615) (xy 27.94 -94.615)
+					(xy 10.16 -95.25) (xy 27.94 -95.25)
 				)
 				(stroke
 					(width 0)
@@ -208,7 +208,7 @@
 			)
 			(polyline
 				(pts
-					(xy 40.005 20.32) (xy 40.005 -102.87)
+					(xy 40.64 20.32) (xy 40.64 -102.87)
 				)
 				(stroke
 					(width 0)
@@ -220,7 +220,7 @@
 			)
 			(polyline
 				(pts
-					(xy 40.005 -10.16) (xy 57.15 -10.16)
+					(xy 40.64 -10.16) (xy 57.15 -10.16)
 				)
 				(stroke
 					(width 0)
@@ -232,7 +232,7 @@
 			)
 			(polyline
 				(pts
-					(xy 40.005 -75.565) (xy 57.15 -75.565)
+					(xy 40.64 -76.2) (xy 57.15 -76.2)
 				)
 				(stroke
 					(width 0)
@@ -244,7 +244,7 @@
 			)
 			(polyline
 				(pts
-					(xy 40.005 -82.55) (xy 57.15 -82.55)
+					(xy 40.64 -82.55) (xy 57.15 -82.55)
 				)
 				(stroke
 					(width 0)
@@ -256,7 +256,7 @@
 			)
 			(polyline
 				(pts
-					(xy 40.005 -90.17) (xy 57.15 -90.17)
+					(xy 40.64 -90.17) (xy 57.15 -90.17)
 				)
 				(stroke
 					(width 0)
@@ -268,7 +268,7 @@
 			)
 			(polyline
 				(pts
-					(xy 40.005 -94.615) (xy 57.15 -94.615)
+					(xy 40.64 -95.25) (xy 57.15 -95.25)
 				)
 				(stroke
 					(width 0)
@@ -1611,7 +1611,7 @@
 				)
 			)
 			(pin passive line
-				(at 62.23 -78.105 180)
+				(at 62.23 -78.74 180)
 				(length 5.08)
 				(name "USB_DP"
 					(effects
@@ -1629,7 +1629,7 @@
 				)
 			)
 			(pin passive line
-				(at 62.23 -80.645 180)
+				(at 62.23 -81.28 180)
 				(length 5.08)
 				(name "USB_DM"
 					(effects

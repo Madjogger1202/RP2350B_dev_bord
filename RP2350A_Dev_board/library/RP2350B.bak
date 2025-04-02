@@ -24,14 +24,13 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "QFN40P1000X1000X90-81N-D"
+		(property "Footprint" "RP2350B:QFN40P1000X1000X90-81N-D"
 			(at 19.6975 -66.9925 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right top)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://datasheets.raspberrypi.com/rp2350/rp2350-product-brief.pdf"
