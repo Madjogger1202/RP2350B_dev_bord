@@ -1,1 +1,1 @@
-# RP2350A_dev_bord
+# RP2350B_dev_bord
